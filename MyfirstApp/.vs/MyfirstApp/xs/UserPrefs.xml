@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{17FCA642-D8A8-4AD6-B587-A340277CE385}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicInOutApp/Program.cs">
+    <Files>
+      <File FileName="BasicInOutApp/Program.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyfirstApp" expanded="True">
+            <Node name="BasicInOutApp">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BasicInOutApp FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
