@@ -1,0 +1,4 @@
+CSharpMasterCourse
+
+Solution - A container for projects
+Project - Where the actual executable code lives
