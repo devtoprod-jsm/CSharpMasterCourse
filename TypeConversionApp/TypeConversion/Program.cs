@@ -11,7 +11,11 @@ class Program
 
         bool isValidInt = int.TryParse(ageText, out int age);
         Console.WriteLine($"The value entered is valid int convertible? : {isValidInt} --- and it's value is {ageText} ");
+
+        double testDouble = 37;
+        decimal testDecimal = (decimal)testDouble;
         Console.ReadLine();
+
     }
 }
 
