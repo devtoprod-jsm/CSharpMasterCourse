@@ -1,0 +1,15 @@
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/bin/Debug/net7.0/StringDataType
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/bin/Debug/net7.0/StringDataType.deps.json
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/bin/Debug/net7.0/StringDataType.runtimeconfig.json
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/bin/Debug/net7.0/StringDataType.dll
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/bin/Debug/net7.0/StringDataType.pdb
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/StringDataType.csproj.AssemblyReference.cache
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/StringDataType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/StringDataType.AssemblyInfoInputs.cache
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/StringDataType.AssemblyInfo.cs
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/StringDataType.csproj.CoreCompileInputs.cache
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/StringDataType.dll
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/refint/StringDataType.dll
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/StringDataType.pdb
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/StringDataType.genruntimeconfig.cache
+/Users/mohantella/Documents/tim_training/CSharpMasterCourse/StringDataTypeApp/StringDataType/obj/Debug/net7.0/ref/StringDataType.dll
